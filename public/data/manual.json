@@ -4,5 +4,11 @@
     "description": "Like ruby's Abbrev module.",
     "repository": "https://github.com/isaacs/abbrev-js",
     "package": "abbrev"
+  },
+  {
+    "name": "types",
+    "description": "Typescript definitions for npm registry content",
+    "repository": "https://github.com/npm/types.git",
+    "package": "@npm/types"
   }
 ]
